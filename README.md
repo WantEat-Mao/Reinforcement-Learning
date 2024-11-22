@@ -1,3 +1,5 @@
+paper：Deep Reinforcement Learning-Based Task Scheduling in IoT Edge Computing
+
 # GitHub Repository
 This is a GitHub repository for reinforcement learning algorithms for task scheduling in edge-cloud computing.
 To solve a task-offloading problem, different problem-solving techniques such as mathematical programming, machine learning, heuristics, meta-heuristics, and game theory can be applied.
